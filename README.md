@@ -363,4 +363,25 @@ The project demonstrates that:
 - Purchasing behavior is temporally structured (daily and weekly cycles).
 - Reordering behavior follows predictable periodic patterns.
 - Basket sizes are moderately stable and right-skewed.
-- Fresh produc
+- Fresh produce dominates both volume and repeat purchases.
+- Customer loyalty is moderate on average but highly segmented.
+- Shopping sessions are structured and priority-based.
+
+The analysis confirms that reliable behavioral insights require disciplined data validation and cleaning before interpretation.
+
+---
+
+## 🔚 Final Conclusion
+
+This project provides a comprehensive exploration of Instacart customer purchasing behavior.
+
+Through systematic cleaning, validation, and behavioral analysis, it identifies:
+
+- Structured temporal patterns
+- Periodic reorder cycles
+- Customer heterogeneity
+- Dominance of staple products
+- Habit-driven purchasing dynamics
+
+The workflow emphasizes methodological rigor before interpretation, ensuring analytical reliability.
+  
